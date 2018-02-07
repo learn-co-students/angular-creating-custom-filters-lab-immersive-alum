@@ -10,7 +10,19 @@ function ContactController() {
                 "street": "1642 church lane",
                 "city": "dundee",
                 "state": "south yorkshire",
-
+                "zip": "LN6Y 1ZG"
+            },
+            "email": "liam.lawson@example.com",
+            "username": "silverwolf439",
+            "dob": 924314544,
+            "phone": "015242 99250",
+            "cell": "0713-889-058",
+            "NINO": "BX 12 80 44 W",
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/men/74.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/men/74.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/men/74.jpg"
+            }
         },
         {
             "name": {
